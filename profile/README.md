@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/Redis-COLOR?style=for-the-badge&logo=Redis&color=FF4438&logoColor=white"/>
 </div>
 
+<h3>AI Stack</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-COLOR?style=for-the-badge&logo=Python&color=3776AB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-COLOR?style=for-the-badge&logo=Flask&color=3776AB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-COLOR?style=for-the-badge&logo=NumPy&color=013243&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-COLOR?style=for-the-badge&logo=pandas&color=150458&logoColor=white"/>
+</div>  
 <h3>CI/CD Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub Action-COLOR?style=for-the-badge&logo=GitHub Actions&color=2088FF&logoColor=white"/>
