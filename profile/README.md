@@ -7,6 +7,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Spring-COLOR?style=for-the-badge&logo=Spring&color=6DB33F&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-COLOR?style=for-the-badge&logo=Spring Security&color=6DB33F&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-COLOR?style=for-the-badge&logo=JUnit5&color=25A162&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-COLOR?style=for-the-badge&logo=MySQL&color=4479A1&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-COLOR?style=for-the-badge&logo=Redis&color=FF4438&logoColor=white"/>
 </div>
@@ -38,6 +39,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Notion-COLOR?style=for-the-badge&logo=Notion&color=000000&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-COLOR?style=for-the-badge&logo=Discord&color=5865F2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-COLOR?style=for-the-badge&logo=Figma&color=F24E1E&logoColor=white"/>
 </div>
 
 <h3>Used API</h3>
