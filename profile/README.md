@@ -1,6 +1,7 @@
-## Hi there 👋
+<strong>가천대학교 소프트웨어학과 졸업작품 2분반 4조 HP 입니다!</strong> 👋
 
-가천대학교 소프트웨어학과 졸업작품 2분반 4조 HP 입니다!
+아기의 얼굴을 통해 감정을 인식하고, 그에 따른 음악을 추천하는 서비스를 개발 중입니다!<br/>
+현재 Youtube/Spotify 데이터 기반으로 음악을 추천하는 모델까지 완성했습니다!
 
 <h3>Backend Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -32,3 +33,24 @@
   <img src="https://img.shields.io/badge/Kibana-COLOR?style=for-the-badge&logo=Kibana&color=005571&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-COLOR?style=for-the-badge&logo=Discord&color=5865F2&logoColor=white"/>
 </div>
+
+<h3>Collaboration Tool</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Notion-COLOR?style=for-the-badge&logo=Notion&color=000000&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-COLOR?style=for-the-badge&logo=Discord&color=5865F2&logoColor=white"/>
+</div>
+
+<h3>Used API</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/YouTube-COLOR?style=for-the-badge&logo=YouTube&color=FF0000&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-COLOR?style=for-the-badge&logo=sPOTIFY&color=1ED760&logoColor=white"/>
+</div>
+
+<!--
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+ <a href="https://github.com/han16935">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+  </a>
+</p>
+--!>
