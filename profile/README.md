@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+가천대학교 소프트웨어학과 졸업작품 2분반 4조 HP 입니다!
+
 <h3>Backend Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Spring-COLOR?style=for-the-badge&logo=Spring&color=6DB33F&logoColor=white"/>
