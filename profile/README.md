@@ -18,6 +18,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-COLOR?style=for-the-badge&logo=Docker&color=3776AB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-COLOR?style=for-the-badge&logo=Kubernetes&color=326CE5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-COLOR?style=for-the-badge&logo=Amazon Web Services&color=232F3E&logoColor=white"/>
 </div>
 
 <h3>Monitoring Stack</h3>
