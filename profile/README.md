@@ -55,11 +55,28 @@
   <img src="https://img.shields.io/badge/Spotify-COLOR?style=for-the-badge&logo=sPOTIFY&color=1ED760&logoColor=white"/>
 </div>
 
-<!--
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
- <a href="https://github.com/han16935">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
-  </a>
-</p>
---!>
+<br/>
+<br/>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+  <h3 align="left">💡 Team members' Most Used Languages 💡</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin:100px 0;">
+    <a href="https://github.com/han16935">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    </a>
+    <a href="https://github.com/YongwanJoo">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongwanJoo&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    </a>
+  </div>
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <a href="https://github.com/ejsong25">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejsong25&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    </a>
+    <a href="https://github.com/7Ding">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Ding&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    </a>
+  </div>
+</div>
+
+
+
