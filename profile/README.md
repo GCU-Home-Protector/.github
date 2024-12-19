@@ -57,8 +57,8 @@
 
 <br/>
 <br/>
-<h3 align="left">💡김현우 Most Used Languages💡</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<h3 align="center">💡김현우's Most Used Languages💡</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/han16935">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
@@ -68,9 +68,9 @@
   </a>
   -->
 </div>
-
-<h3 align="left">💡주용완 Most Used Languages💡</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<br/>
+<h3 align="center">💡주용완's Most Used Languages💡</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/YongwanJoo">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongwanJoo&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
@@ -80,9 +80,9 @@
   </a>
   -->
 </div>
-
-<h3 align="left">💡송은정 Most Used Languages💡</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<br/>
+<h3 align="center">💡송은정's Most Used Languages💡</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/ejsong25">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejsong25&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
@@ -92,9 +92,9 @@
   </a>
   -->
 </div>
-
-<h3 align="left">💡이유빈 Most Used Languages💡</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<br/>
+<h3 align="center">💡이유빈's Most Used Languages💡</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/7Ding">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Ding&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
