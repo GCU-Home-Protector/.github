@@ -1,5 +1,9 @@
 <strong>가천대학교 소프트웨어학과 졸업작품 2분반 4조 HP 입니다!</strong> 👋
-
+<br/>
+<br/>
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/user-attachments/assets/4cb69172-cc88-480c-a849-fdcc8651205f">
+</p>
 아기의 얼굴을 통해 감정을 인식하고, 그에 따른 음악을 추천하는 서비스를 개발 중입니다!<br/>
 현재 Youtube/Spotify 데이터 기반으로 음악을 추천하는 모델까지 완성했습니다!
 
