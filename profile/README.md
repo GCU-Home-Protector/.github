@@ -62,6 +62,11 @@
   <a href="https://github.com/han16935">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han16935&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
+  <!--
+  <a href="https://github.com/han16935">
+    <img src="https://github-readme-stats.vercel.app/api?username=han16935&show_icons=true&theme=radical" />
+  </a>
+  -->
 </div>
 
 <h3 align="left">💡주용완 Most Used Languages💡</h3>
@@ -69,6 +74,11 @@
   <a href="https://github.com/YongwanJoo">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongwanJoo&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
+  <!--
+  <a href="https://github.com/YongwanJoo">
+    <img src="https://github-readme-stats.vercel.app/api?username=YongwanJoo&show_icons=true&theme=radical" />
+  </a>
+  -->
 </div>
 
 <h3 align="left">💡송은정 Most Used Languages💡</h3>
@@ -76,6 +86,11 @@
   <a href="https://github.com/ejsong25">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejsong25&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
+  <!--
+  <a href="https://github.com/ejsong25">
+    <img src="https://github-readme-stats.vercel.app/api?username=ejsong25&show_icons=true&theme=radical" />
+  </a>
+  -->
 </div>
 
 <h3 align="left">💡이유빈 Most Used Languages💡</h3>
@@ -83,6 +98,11 @@
   <a href="https://github.com/7Ding">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Ding&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
+  <!--
+  <a href="https://github.com/7Ding">
+    <img src="https://github-readme-stats.vercel.app/api?username=7Ding&show_icons=true&theme=radical" />
+  </a>
+  -->
 </div>
 
 <!--
