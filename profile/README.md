@@ -8,7 +8,7 @@
 
 <p>
 <br/>
-팀 노션입니다!
+팀 노션입니다! API 명세서 등을 보실 수 있습니다!
 <br/>
 https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
 </p>
