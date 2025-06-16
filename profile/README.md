@@ -6,6 +6,13 @@
 아기의 얼굴을 통해 감정을 인식하고, 그에 따른 음악을 추천하는 서비스를 개발 중입니다!<br/>
 현재 Youtube/Spotify 데이터 기반으로 음악을 추천하는 모델까지 완성했습니다!
 
+<p>
+<br/>
+팀 노션입니다!
+<br/>
+https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
+</p>
+
 <h3>Backend Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
