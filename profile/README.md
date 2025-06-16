@@ -8,8 +8,8 @@
 
 <h3>Backend Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Spring Boot-COLOR?style=for-the-badge&logo=Spring Boot&color=6DB33F&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-COLOR?style=for-the-badge&logo=Spring Security&color=6DB33F&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/JUnit5-COLOR?style=for-the-badge&logo=JUnit5&color=25A162&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-COLOR?style=for-the-badge&logo=MySQL&color=4479A1&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-COLOR?style=for-the-badge&logo=Redis&color=FF4438&logoColor=white"/>
@@ -22,9 +22,10 @@
   <img src="https://img.shields.io/badge/Numpy-COLOR?style=for-the-badge&logo=NumPy&color=013243&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-COLOR?style=for-the-badge&logo=pandas&color=150458&logoColor=white"/>
 </div>  
+
 <h3>CI/CD Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/GitHub Action-COLOR?style=for-the-badge&logo=GitHub Actions&color=2088FF&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-COLOR?style=for-the-badge&logo=Argo&color=EF7B4D&logoColor=white"/>
 </div>
 
@@ -32,7 +33,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-COLOR?style=for-the-badge&logo=Docker&color=3776AB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-COLOR?style=for-the-badge&logo=Kubernetes&color=326CE5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-COLOR?style=for-the-badge&logo=Amazon Web Services&color=232F3E&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
 <h3>Monitoring Stack</h3>
@@ -58,8 +59,12 @@
   <img src="https://img.shields.io/badge/Spotify-COLOR?style=for-the-badge&logo=sPOTIFY&color=1ED760&logoColor=white"/>
 </div>
 
+
+
 <br/>
 <br/>
+
+
 <h3 align="center">💡김현우's Most Used Languages💡</h3>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/han16935">
@@ -100,6 +105,18 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/7Ding">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Ding&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+  </a>
+  <!--
+  <a href="https://github.com/7Ding">
+    <img src="https://github-readme-stats.vercel.app/api?username=7Ding&show_icons=true&theme=radical" />
+  </a>
+  -->
+</div>
+
+<h3 align="center">💡황승주's Most Used Languages💡</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/kate3hwang">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kate3hwang&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
   <!--
   <a href="https://github.com/7Ding">
