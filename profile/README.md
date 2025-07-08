@@ -7,7 +7,7 @@
 --!>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/user-attachments/assets/1d0a2967-b7d1-4a8d-a80a-ff3673e9be1e">
+  <img style="max-width:100%"; height:auto;" src="https://github.com/user-attachments/assets/1d0a2967-b7d1-4a8d-a80a-ff3673e9be1e">
 </p>
 아기의 얼굴을 통해 감정을 인식하는 서비스입니다!<br/>
 
