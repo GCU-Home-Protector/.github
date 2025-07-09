@@ -23,6 +23,9 @@ https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/JUnit5-COLOR?style=for-the-badge&logo=JUnit5&color=25A162&logoColor=white"/>
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+    <br/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
   <img src="https://img.shields.io/badge/MySQL-COLOR?style=for-the-badge&logo=MySQL&color=4479A1&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-COLOR?style=for-the-badge&logo=Redis&color=FF4438&logoColor=white"/>
 </div>
@@ -46,15 +49,14 @@ https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
   <img src="https://img.shields.io/badge/Docker-COLOR?style=for-the-badge&logo=Docker&color=3776AB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-COLOR?style=for-the-badge&logo=Kubernetes&color=326CE5&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
 </div>
 
 <h3>Monitoring Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Prometheus-COLOR?style=for-the-badge&logo=Prometheus&color=E6522C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-COLOR?style=for-the-badge&logo=Grafana&color=F46800&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-COLOR?style=for-the-badge&logo=Elasticsearch&color=005571&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fluentd-COLOR?style=for-the-badge&logo=Fluentd&color=0E83C8&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-COLOR?style=for-the-badge&logo=Kibana&color=005571&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Discord-COLOR?style=for-the-badge&logo=Discord&color=5865F2&logoColor=white"/>
 </div>
 
@@ -62,7 +64,7 @@ https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Notion-COLOR?style=for-the-badge&logo=Notion&color=000000&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-COLOR?style=for-the-badge&logo=Discord&color=5865F2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-COLOR?style=for-the-badge&logo=Figma&color=F24E1E&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-COLOR?style=for-the-badge&logo=Figma&color=F24E1E&logoColor=white"/>   
 </div>
 
 <h3>Used API</h3>
