@@ -7,7 +7,10 @@
 --!>
 
 <p align="center">
-  <img style="max-width:100%"; height:auto;" src="https://github.com/user-attachments/assets/1d0a2967-b7d1-4a8d-a80a-ff3673e9be1e">
+  <!--<img style="max-width:100%"; height:auto;" src="https://github.com/user-attachments/assets/1d0a2967-b7d1-4a8d-a80a-ff3673e9be1e">-->
+  <img width="1654" height="740" alt="image" src="https://github.com/user-attachments/assets/600b3e0c-3b34-4839-9e95-85c279a356cc" />
+  <img width="1655" height="757" alt="image" src="https://github.com/user-attachments/assets/90c1aecc-eea6-4d7c-819e-7ef10abf5959" />
+
 </p>
 아기의 얼굴을 통해 음악을 추천천하는 서비스입니다!<br/>
 
