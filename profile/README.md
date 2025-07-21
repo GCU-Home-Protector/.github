@@ -12,7 +12,7 @@
   <img width="1655" height="757" alt="image" src="https://github.com/user-attachments/assets/90c1aecc-eea6-4d7c-819e-7ef10abf5959" />
 
 </p>
-아기의 얼굴을 통해 음악을 추천천하는 서비스입니다!<br/>
+아기의 얼굴을 통해 음악을 추천하는 서비스입니다!<br/>
 
 <p>
 <br/>
