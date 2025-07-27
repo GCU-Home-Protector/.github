@@ -12,13 +12,14 @@
   <img width="1655" height="757" alt="image" src="https://github.com/user-attachments/assets/90c1aecc-eea6-4d7c-819e-7ef10abf5959" />
 
 </p>
-아기의 얼굴을 통해 음악을 추천하는 서비스입니다!<br/>
+아기의 얼굴을 통해 음악을 추천하는 서비스입니다!
+<br/>
 
 <p>
 <br/>
-팀 노션입니다! API 명세서 등을 보실 수 있습니다!
+Spring, Flask 를 통해 백엔드 및 AI 서버를 구성하였으며 Kustomize 를 통해 local, dev 등 각 프로파일에 대해 다른 환경이 구성될 수 있도록 작성했습니다!
+Github Actions 과 ArgoCD를 통해 CI/CD 를 구성하였으며 Terraform 을 통해 EKS 기반 배포했습니다!  
 <br/>
-https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
 </p>
 
 <h3>Backend Stack</h3>
@@ -70,12 +71,13 @@ https://exultant-gravity-b5e.notion.site/Daisy-1b63b49a173d8042bbcfd4d136a875c6
   <img src="https://img.shields.io/badge/Figma-COLOR?style=for-the-badge&logo=Figma&color=F24E1E&logoColor=white"/>   
 </div>
 
+<!--
 <h3>Used API</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/YouTube-COLOR?style=for-the-badge&logo=YouTube&color=FF0000&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spotify-COLOR?style=for-the-badge&logo=sPOTIFY&color=1ED760&logoColor=white"/>
 </div>
-
+-->
 
 
 <br/>
